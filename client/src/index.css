@@ -1,4 +1,10 @@
 body {
+  background-image: url("https://img.freepik.com/free-vector/tricolor-indian-flag-theme-modern-watercolor-elegant-background_1055-21627.jpg?t=st=1733042725~exp=1733046325~hmac=f27fec5c2a229591ed458df48263ead91b3b30e893272d5ccb8cdf8c99a918b1&w=900");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',

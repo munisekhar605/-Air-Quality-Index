@@ -1,0 +1,42 @@
+
+.chart-container {
+    margin: 0 auto;
+    position: relative;
+    height: 450px;
+    width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+.width80{
+    width: 95%;
+}
+.chart-container canvas {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.chart-container h2 {
+    text-align: center;
+    color: #444;
+    font-family: 'Arial', sans-serif;
+}
+
+.chart-container .tooltip {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 800px) {
+
+.chart-container {
+    width: 80%;
+    }
+
+}

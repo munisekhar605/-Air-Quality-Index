@@ -1,0 +1,22 @@
+.from-container{
+    text-align: center;
+}
+.from-input-item{
+    width: 45%;
+    padding: 10px;
+    border-radius: 10px;
+    border:solid orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: 600;
+}
+.from-button-item{
+    margin-left: 10px;
+   
+    padding: 10px;
+    border-radius: 10px;
+    border: solid orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-weight: 600;
+}

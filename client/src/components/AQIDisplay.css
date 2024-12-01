@@ -1,0 +1,15 @@
+.aqi-display{
+    /* background-image: linear-gradient( orange, green);  */
+    background-color: rgb(255, 255, 255);
+    color:rgb(80, 7, 7);
+    background:lenear;
+    width: 95%;
+    border:2px solid gree;
+    margin: 5px;
+    margin-left: 1%;
+    margin-top: 30px;
+    padding: 15px;
+    border-radius: 20px;
+    border: solid green;
+    border-top-left-radius: 0px;
+}
